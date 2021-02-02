@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    background-color: black;
+}
+div {
+    text-align: center;
+    color: #EB680D;
+    border: 8px ridge #777777;
+    font-size: 0;
+    border-radius: 25px;
+}
+.titulo {
+    font-size: 30px;
+    font-family: Verdana, sans-serif;
+}
+.resultado {
+    text-align: right;
+    font-size: large;
+}
+button {
+    width: 275px;
+    height: 50px;
+    font-size: large;
+    border-radius: 50px;
+}
+.clear {
+    width: 50%;
+    background-color: #EB680D;
+}
+.submit {
+    width: 50%;
+    background-color: #3DE330;
+}
