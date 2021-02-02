@@ -15,3 +15,12 @@ As tecnologias utilizadas são listadas abaixo.
 * HTML5
 * CSS3
 
+## Como utilizar 
+
+O projeto ainda não apresenta funcionalidades, sendo apenas visual.
+
+
+
+## Autor
+
+* **Zoryax**: @Zoryax (https://github.com/Zoryax)
